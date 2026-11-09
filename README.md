@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 - 🎓 Master's student in Artificial Intelligence & Big Data.
 - 💻 Background in Application Development.
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,php,laravel,react,js,html,css,tailwind,mysql,postgres,mongodb,linux,git,github,docker,pytorch" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 🧠 AI & Data Science
+###  AI & Data Science
 
 - Machine Learning
 - Deep Learning
@@ -45,7 +45,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -56,16 +56,25 @@
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlphaCoding-404&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaCoding-404&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=AlphaCoding-404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaCoding-404&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-### 🔥 Contribution Streak
+###  Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AlphaCoding-404&theme=tokyonight&hide_border=true" />
@@ -73,7 +82,7 @@
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://github.com/AlphaCoding-404">
